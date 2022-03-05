@@ -1,4 +1,4 @@
-Eduard Petcu - 324CC
+Eduard Petcu
 
 =============================
 
@@ -72,7 +72,7 @@ Am concatenat toate numele directoarelor si am returnat calea.
 Functia stop elibereaza memoria din directorul radacina in mod recursiv
 folosind functia freeDir si iese din while-ul de comenzi.
 
-10. (Bonus) mv
+10. mv
 Timp aproximativ de implementare : 16 h
 Functia primeste ca parametri numele vechiului director/fisier si numele nou.
 In cazul in care se gaseste directorul/fisierul cu acelasi nume ca si 
